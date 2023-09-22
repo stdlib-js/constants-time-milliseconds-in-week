@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import MILLISECONDS_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-week@deno/mod.js';
+import MILLISECONDS_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-week@v0.2.0-deno/mod.js';
 ```
 
 #### MILLISECONDS_IN_WEEK
@@ -77,7 +77,7 @@ var bool = ( MILLISECONDS_IN_WEEK === 604800000 );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import roundn from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-roundn@deno/mod.js';
-import MILLISECONDS_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-week@deno/mod.js';
+import MILLISECONDS_IN_WEEK from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-time-milliseconds-in-week@v0.2.0-deno/mod.js';
 
 var ms;
 var w;
